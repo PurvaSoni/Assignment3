@@ -12,8 +12,6 @@ public class CalculatorTest {
 
     @Before
     public void setUp() throws Exception {
-
-        //Initialized member variable
         c = new Calculator();
     }
 
